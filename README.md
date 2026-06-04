@@ -5,9 +5,13 @@
 # 👨‍💻 About Me
 
 Frontend Developer with 3+ years of experience building scalable web and mobile applications using Angular, TypeScript, Ionic, and AWS.
+
 🚀 Currently working as a Frontend Developer at Rssquarz Tech Solutions Pvt. Ltd.
+
 💡 Passionate about building reusable UI components, improving application performance, and creating developer-friendly tools.
+
 📦 Published npm packages and actively exploring system design, cloud technologies, and open-source contributions.
+
 🌱 Currently learning AWS, System Design, and advanced DSA.
 ⚡ Fun fact: I enjoy turning real-world problems into reusable libraries and tools.
 
@@ -30,6 +34,7 @@ A reusable Angular validation library designed for Indian-specific data validati
 ✅ Easy Angular Integration
 
 🔗 npm: https://www.npmjs.com/package/ng-bharat-validators
+
 🔗 GitHub: https://github.com/Sanket2404/ng-bharat-validators
 
 
