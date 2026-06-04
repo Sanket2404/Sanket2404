@@ -20,9 +20,13 @@ Frontend Developer with 3+ years of experience building scalable web and mobile 
 
 A reusable Angular validation library designed for Indian-specific data validation.
 ✅ PAN Card Validation
+
 ✅ Aadhaar Validation
+
 ✅ Indian Mobile Number Validation
+
 ✅ PIN Code Validation
+
 ✅ Easy Angular Integration
 
 🔗 npm: https://www.npmjs.com/package/ng-bharat-validators
