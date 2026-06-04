@@ -50,6 +50,9 @@ A reusable Angular validation library designed for Indian-specific data validati
 ### 🔝 Top Contributed Repo
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2404&theme=github-dark)
 
+## 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2404&theme=github-dark)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanket2404&icon=2&color=5)](https://visitcount.itsvg.in)
 
