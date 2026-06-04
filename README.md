@@ -38,11 +38,19 @@ A reusable Angular validation library designed for Indian-specific data validati
 🔗 GitHub: https://github.com/Sanket2404/ng-bharat-validators
 
 
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanket2404&theme=radical)
+# 💼 Experience Snapshot
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sanket2404&theme=onedark)
+Frontend Developer with 3.3+ years of experience building enterprise-grade web and mobile applications.
+
+Key Areas:
+- Angular Development
+- Ionic Mobile Apps
+- SSR & SEO Optimization
+- Progressive Web Apps (PWA)
+- REST API Integration
+- Payment Gateway Integration
+- AWS Cloud Fundamentals
+- Docker, CI/CD
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
